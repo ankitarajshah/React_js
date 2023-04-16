@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ReUsableCompo from './ReUsableCompo';
 
 class Compo extends Component {
     render() {
